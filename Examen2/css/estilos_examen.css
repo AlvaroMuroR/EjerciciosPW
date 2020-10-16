@@ -1,0 +1,167 @@
+body{
+    width: 1024px;
+    margin: 0 auto;
+    background: white;
+}
+
+header{
+    position: relative;
+}
+#logo{
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+
+header nav ul {
+    text-align: center;
+    font-weight: bold;
+    padding-right: 20px;
+    font-size: 14px;
+    color: silver;
+    border-top: 1px solid;
+    border-bottom: solid 1px;
+    border-color: silver;
+   
+}
+
+.home{
+    color: black;
+    border-bottom:solid orange; 
+}
+
+nav ul li{
+    display: inline-block;
+     margin-right: 20px;
+     margin-top: 17px;
+     margin-bottom: 10px;
+ }
+
+ .boton-order{
+     color: white;
+     background: rgb(240, 190, 63);
+     border: transparent;
+     border-radius: 1px;
+     padding-top: 10px;
+     padding-bottom: 10px;
+ }
+
+ .seccion1{
+     width: 40%;
+     display: inline-block;
+     vertical-align: top;
+     margin-left: 120px;
+ }
+
+ .seccionfoto{
+     display: inline-block;
+     width: 40%;
+ }
+
+ #libros{
+     width: 90%;
+ }
+
+
+.seccion1 h2{
+    font-size: 30px;
+    text-align: center;
+
+}
+
+.p1, .p2, .p3{
+    font-size: 18px;
+   
+
+}
+
+.p1, .p2{
+    line-height: 5px;
+    text-align: center;
+}
+
+.p3{
+    text-align: justify;
+    color: gray;
+    font-size: 14px;
+}
+
+.perik{
+    text-align: center;
+    font-size: 18px;
+    font-weight: 800;
+
+}
+
+.p4{
+    text-align: center;
+    color: gray;
+}
+
+.enlace{
+    text-align: center;
+    color: 	rgb(132, 216, 210);
+}
+
+span{
+    margin-left: 5px;
+    color: black;
+}
+
+.seccion2{
+    width: 100%;
+    text-align: center;
+    line-height: 15px;
+
+}
+
+
+.seccion2 h2{
+    margin-right: 90px;
+
+}
+.seccion2 p{
+    color: silver;
+    line-height: 1px;
+    margin-right: 90px;
+
+}
+
+footer{
+    padding-top: 40px;
+}
+
+.amazon, .indie, .barnes, .spd{
+    width: 24%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.boton-amazon{
+    width: 100px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 2px;
+    border-color: orange ;
+    
+}
+
+#indie{
+    width: 45%;
+}
+
+#barnes{
+    width: 50%;
+}
+
+#spd{
+    width: 50%;
+}
+
+
+
+
+
+
+ 
+ 
